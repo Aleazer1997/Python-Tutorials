@@ -7,4 +7,20 @@ Day 1
 
     def hello_twice():
         print('hello twice')
+        
+#Testing Backticks
+
+```
+def backtick()
+    print('backticks work')
+```
+
+
+go to [Google Website](http://google.com)
+
+*testing italic*
+
+---
+test a line
+---
       
